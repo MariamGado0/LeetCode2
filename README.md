@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MariamGado0/LeetCode2/tree/master/0179-largest-number) |
+| [1133-last-substring-in-lexicographical-order](https://github.com/MariamGado0/LeetCode2/tree/master/1133-last-substring-in-lexicographical-order) |
 ## Greedy
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MariamGado0/LeetCode2/tree/master/0179-largest-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1133-last-substring-in-lexicographical-order](https://github.com/MariamGado0/LeetCode2/tree/master/1133-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
