@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MariamGado0/LeetCode2/tree/master/0179-largest-number) |
+| [0228-summary-ranges](https://github.com/MariamGado0/LeetCode2/tree/master/0228-summary-ranges) |
 ## String
 |  |
 | ------- |
